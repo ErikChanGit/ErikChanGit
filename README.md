@@ -15,5 +15,5 @@ I'm Erik，a software engineer from Shanghai.  Welcome to my page !
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=ErikChanGit) 
+![](https://github-readme-stats.vercel.app/api?username=ErikChanGit&theme=dark) 
 
