@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi , friend 👋
 
-<!--
-**ErikChanGit/ErikChanGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Erik，a software engineer from Shanghai.  Welcome to my page !
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Web Front-End Development, I am proficient in various languages,  such as Javascript, python and java. 
+- 🚀 I use daily:
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+  ![Java](https://img.shields.io/badge/-Java-black?style=plastic&logo=java)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+- 🌱 I’m currently learning golang, in fact, I'm crazy about it and try to start a project.
+- 👯 I’m looking to collaborate on vue.js, electron and golang
+- 💬 You can reach me in my [facebook Page](https://www.facebook.com/profile.php?id=100010842647138) or Weachat（ErikUnique87)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![](https://github-readme-stats.vercel.app/api?username=ErikChanGit) 
+
