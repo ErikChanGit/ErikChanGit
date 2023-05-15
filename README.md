@@ -24,6 +24,6 @@ I'm Erik，a software engineer from Shanghai.  Welcome to my page !
 - 💬 You can reach me in my [facebook Page](https://www.facebook.com/profile.php?id=100010842647138) or Weachat（ErikUnique87)
 
 
-![](https://github-readme-stats.vercel.app/api?username=ErikChanGit&theme=dark) 
+![](https://github-readme-stats.vercel.app/api?username=ErikChanHub&theme=dark) 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikChanGit&langs_count=10&layout=compact&theme=dark&show_icons=true) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikChanHub&langs_count=10&layout=compact&theme=dark&show_icons=true) 
