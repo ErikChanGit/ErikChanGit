@@ -25,5 +25,3 @@ I'm Erik，a software engineer from Shanghai.  Welcome to my page !
 
 
 ![](https://github-readme-stats.vercel.app/api?username=ErikChanHub&theme=dark) 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikChanHub&langs_count=10&layout=compact&theme=dark&show_icons=true) 
